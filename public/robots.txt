@@ -10,4 +10,4 @@ Disallow:/_nuxt/*
 Disallow:/images/*
 Disallow:/_payload.json
 Disallow:/*/_payload.json
-Sitemap: https://www.byoip.top/sitemap.xml
+Sitemap: https://neko.cloudd.eu.org/sitemap.xml
