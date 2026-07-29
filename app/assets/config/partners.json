@@ -1,18 +1,11 @@
 {
   "partners": [
     {
-      "id": "partner-1",
+      "id": "喵呜",
       "name": "fishcpy",
-      "logo": "https://www.fis.ink/img/logo_c.png",
-      "description": "cloudflare 优选维护者",
-      "website": "https://www.fis.ink"
-    },
-    {
-      "id": "partner-2",
-      "name": "蜜蜂QWQ",
       "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=3979158171&spec=0",
-      "description": "vercel、netlify、edgeone 优选维护者",
-      "website": "https://imbee.top"
+      "description": "cloudflare 优选维护者",
+      "website": "https://blog.xn--lzs769c.com"
     }
   ]
 }
