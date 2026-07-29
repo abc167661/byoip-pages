@@ -51,7 +51,7 @@ import { useNotices } from '~/composables/useNotices'
 const { notices } = useNotices()
 
 useHead({
-  title: '历史公告 | NB 优选服务',
+  title: '历史公告 | 喵呜 优选服务',
   meta: [
     { name: 'description', content: 'NB 优选服务历史公告与通知列表' }
   ]
