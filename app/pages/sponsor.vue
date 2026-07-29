@@ -7,7 +7,7 @@
           <div class="text-center mb-12">
             <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4 font-chinese">赞助支持</h1>
             <p class="card-description text-xl max-w-3xl mx-auto mb-8 text-gray-600">
-              感谢所有赞助商对 NB 优选服务项目的大力支持，您的支持是我们持续改进和发展的动力
+              感谢所有赞助商对 喵呜 优选服务项目的大力支持，您的支持是我们持续改进和发展的动力
             </p>
           </div>
           <h2 class="text-3xl font-bold text-center mb-8 font-mixed text-green-600">
@@ -23,11 +23,11 @@
                 <h3 class="text-xl font-semibold mb-4 text-green-700">支付宝</h3>
                 <div class="bg-white rounded-lg p-4 sm:p-6 shadow-sm">
                   <img 
-                    src="https://cdn.mfawa.top/image/icon/byoip-alipay.png" 
+                    src="https://" 
                     alt="支付宝收款码"
                     class="w-64 h-64 sm:w-80 sm:h-80 mx-auto object-contain cursor-pointer hover:scale-105 transition-transform duration-200"
                     loading="lazy"
-                    @click="openImageModal('https://cdn.mfawa.top/image/icon/byoip-alipay.png', '支付宝收款码')"
+                    @click="openImageModal('https://', '支付宝收款码')"
                   />
                   <p class="text-sm text-gray-600 mt-2">点击图片放大查看</p>
                 </div>
@@ -38,11 +38,11 @@
                 <h3 class="text-xl font-semibold mb-4 text-green-700">微信</h3>
                 <div class="bg-white rounded-lg p-4 sm:p-6 shadow-sm">
                   <img 
-                    src="https://cdn.mfawa.top/image/icon/byoip-wechat.png" 
+                    src="https://" 
                     alt="微信赞助"
                     class="w-64 h-64 sm:w-80 sm:h-80 mx-auto object-contain cursor-pointer hover:scale-105 transition-transform duration-200"
                     loading="lazy"
-                    @click="openImageModal('https://cdn.mfawa.top/image/icon/byoip-wechat.png', '微信赞助')"
+                    @click="openImageModal('https://c', '微信赞助')"
                   />
                   <p class="text-sm text-gray-600 mt-2">点击图片放大查看</p>
                 </div>
@@ -196,9 +196,9 @@ onUnmounted(() => {
 
 // 设置页面head
 useHead({
-  title: '赞助支持 | NB 优选服务 - CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务',
+  title: '赞助支持 | 喵呜 优选服务 - CloudFlare IP 优选、节点状态监测服务',
   meta: [
-    { name: 'description', content: '感谢所有赞助商对 NB 优选服务项目的大力支持，您的支持是我们持续改进和发展的动力' }
+    { name: 'description', content: '感谢所有赞助商对 喵呜 优选服务项目的大力支持，您的支持是我们持续改进和发展的动力' }
   ]
 })
 </script>
