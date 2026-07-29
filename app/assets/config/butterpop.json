@@ -16,6 +16,22 @@
       "preventDuplicates": true
     }
   ],
+      {
+      "id": "2",
+      "notice": "true",
+      "time": "2026/07/29",
+      "message": "by@zbcai5555",
+      "type": "success",
+      "position": "top-right",
+      "theme": "glassmorphism",
+      "duration": 15000,
+      "progress": true,
+      "closable": true,
+      "pauseOnHover": false,
+      "closeOnClick": false,
+      "preventDuplicates": true
+    }
+  ],
   "copySuccess": {
     "message": "已成功复制",
     "type": "success",
