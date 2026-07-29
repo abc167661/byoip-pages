@@ -9,7 +9,7 @@
 
 提供 CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务
 
-[在线演示](https://www.byoip.top) · [使用文档](./docs/docs.md) · [配置教程](./docs/config.md)
+[在线演示](https://neko.cloudd.eu.org) · [使用文档](./docs/docs.md) · [配置教程](./docs/config.md)
 
 </div>
 
