@@ -16,20 +16,18 @@
           </p>
           <h2 class="text-2xl font-bold text-gray-800 mb-4">技术支持</h2>
           <p class="mb-6">
-            我们支持 CloudFlare、Vercel、Netlify 等全球主流云服务商的 CDN 节点监测和 IP 优选。我们定期更新数据，确保用户能够获取最新、最准确的网络状态信息。
+            我们支持 CloudFlare IP 优选。我们定期更新数据，确保用户能够获取最新、最准确的网络状态信息。
           </p>
           <h2 class="text-2xl font-bold text-gray-800 mb-4">项目代码</h2>
           <p class="mb-6">
-            我们的项目代码托管在 GitHub 上，您可以在 <a href="https://github.com/FrecklyComb1728/byoip-pages" class="text-blue-600 hover:text-blue-800">这里</a> 查看和参与项目的开发。
+            我们的项目代码托管在 GitHub 上，您可以在 <a href="https://github.com/abc167661/byoip-pages" class="text-blue-600 hover:text-blue-800">这里</a> 查看和参与项目的开发。
           </p>
           <h2 class="text-2xl font-bold text-gray-800 mb-4">联系我们</h2>
           <p>
             如果您有任何问题、建议或合作意向，欢迎通过以下方式联系我们：
           </p>
           <ul class="list-disc pl-6 mt-2">
-            <li>GitHub: <a href="https://github.com/FrecklyComb1728/byoip-pages" class="text-blue-600 hover:text-blue-800">FrecklyComb1728/byoip-pages</a></li>
-            <li>Email: me@1s.fan</li>
-            <li>QQ：3979158171</li>
+            <li>GitHub: <a href="https://github.com/abc167661/byoip-pages" class="text-blue-600 hover:text-blue-800">abc167661/byoip-pages</a></li>
           </ul>
         </div>
       </div>
@@ -42,9 +40,9 @@ import { ref, onMounted } from 'vue'
 
 // 页面标题
 useHead({
-  title: '关于我们 | NB 优选服务 - CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务',
+  title: '关于我们 | 喵呜 优选服务 - CloudFlare  IP 优选、节点状态监测服务',
   meta: [
-    { name: 'description', content: 'NB 优选服务项目介绍、使命和联系方式' }
+    { name: 'description', content: '喵呜 优选服务项目介绍、使命和联系方式' }
   ]
 })
 </script>
