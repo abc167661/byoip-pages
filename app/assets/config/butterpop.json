@@ -8,7 +8,7 @@
       "type": "success",
       "position": "top-right",
       "theme": "glassmorphism",
-      "duration": 10000,
+      "duration": 15000,
       "progress": true,
       "closable": true,
       "pauseOnHover": false,
@@ -17,7 +17,7 @@
     },
     {
       "id": "1",
-      "notice": "true",
+      "notice": "false",
       "time": "2026/07/29",
       "message": "测试",
       "type": "success",
