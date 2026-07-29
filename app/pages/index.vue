@@ -3,7 +3,7 @@
     
       <!-- 标题部分 -->
       <div class="text-center mb-12">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4 font-chinese">NB 优选服务</h1>
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4 font-chinese">喵呜 优选服务</h1>
         <p class="text-xl text-gray-600 max-w-3xl mx-auto font-chinese">
           CloudFlare IP 优选、节点状态监测服务
         </p>  
