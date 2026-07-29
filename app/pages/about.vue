@@ -8,7 +8,7 @@
         <div class="prose prose-lg mx-auto">
           <h2 class="text-2xl font-bold text-gray-800 mb-4">项目简介</h2>
           <p class="mb-6">
-            NB 优选服务是一个致力于为开发者和网站运营者提供全球主流云服务商的 CDN 节点优选和节点状态监测服务的开源项目。我们的目标是帮助用户获得更快、更稳定的网络体验。
+            喵呜 优选服务是一个致力于为开发者和网站运营者提供全球主流云服务商的 CDN 节点优选和节点状态监测服务的开源项目。我们的目标是帮助用户获得更快、更稳定的网络体验。
           </p>
           <h2 class="text-2xl font-bold text-gray-800 mb-4">我们是谁？</h2>
           <p class="mb-6">
