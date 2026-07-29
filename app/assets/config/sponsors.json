@@ -1,60 +1,7 @@
 {
   "sponsors": [
     {
-      "id": "sponsor-7",
-      "name": "align",
-      "logo": "https://img.xiaoli.top/b_ebef16bd5df9016c8b030733c307d528.jpg",
-      "description": "大大的小透明",
-      "website": "https://blog.xiaoli.top//",
-      "amount": "¥50"
-    },
-    {
-      "id": "sponsor-6",
-      "name": "vpsceping",
-      "logo": "/images/avatar/vpsceping.png",
-      "description": "国外主机VPS，国外服务器，测评及优惠信息",
-      "website": "https://vpsceping.org",
-      "amount": "19931110.xyz"
-    },
-    {
-      "id": "sponsor-5",
-      "name": "慕白",
-      "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=3966470647&spec=0",
-      "description": "我是慕白",
-      "website": "https://368683.xyz",
-      "amount": "368683.xyz"
-    },
-    {
-      "id": "sponsor-4",
-      "name": "美速哥铁粉",
-      "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=3638225108&spec=0",
-      "description": "支持！",
-      "website": "https://space.bilibili.com/3546721225279790",
-      "amount": "¥2.00"
-    },
-    {
-      "id": "sponsor-3",
-      "name": "南柯一梦",
-      "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=3282380996&spec=0",
-      "description": "NB奥老铁，没毛病支持了",
-      "website": "",
-      "amount": "¥6.66"
-    },
-    {
-      "id": "sponsor-2",
-      "name": "･ᴗ･ 7710",
-      "logo": "/images/avatar/7710.jpg",
-      "description": "老铁666",
-      "website": "", 
-      "amount": "¥36.60"
-    },
-    {
-      "id": "sponsor-1",
-      "name": "蜜蜂QWQ",
-      "logo": "https://cdn.mfawa.top/image/logo.svg",
-      "description": "加油！",
-      "website": "https://imbee.top",
-      "amount": "¥10.00"
+    
     }
   ]
 }
