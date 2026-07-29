@@ -44,9 +44,9 @@ import { ref, onMounted } from 'vue'
 
 // 页面标题
 useHead({
-  title: '隐私政策 | NB 优选服务 - CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务',
+  title: '隐私政策 | 喵呜 优选服务 - CloudFlare IP 优选、节点状态监测服务',
   meta: [
-    { name: 'description', content: 'NB 优选服务隐私政策，包含信息收集、使用和保护措施' }
+    { name: 'description', content: '喵呜 优选服务隐私政策，包含信息收集、使用和保护措施' }
   ]
 })
 </script>
