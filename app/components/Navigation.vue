@@ -4,7 +4,7 @@
       <div class="max-w-[1200px] mx-auto flex items-center justify-between px-2 sm:px-4 md:px-4">
         <a href="/" @click="handleNavigation('/', $event)" class="font-bold text-gray-800 no-underline text-base md:text-lg hover:text-blue-500 flex items-center min-w-0 gap-1">
           <img src="/favicon.ico" alt="favicon" class="inline-block w-6 h-6 mr-1 align-middle" />
-          <span class="truncate">NB 优选服务</span>
+          <span class="truncate">喵呜 优选服务</span>
         </a>
 
         <div class="hidden md:flex flex-1 items-center justify-center gap-1">
@@ -146,8 +146,8 @@ const qqTrigger = ref<HTMLElement | null>(null)
 const qqPopover = ref<HTMLElement | null>(null)
 const menuTrigger = ref<HTMLElement | null>(null)
 const menuPanel = ref<HTMLElement | null>(null)
-const groupNumber = '156102689'
-const groupUrl = ref('https://qm.qq.com/q/sNnRfLmM9O')
+const groupNumber = '占位'
+const groupUrl = ref('占位')
 
 const toggleQQ = () => {
   isMobileMenuOpen.value = false
