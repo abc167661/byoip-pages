@@ -6,7 +6,7 @@
       "provider": "cloudflare",
       "description": "CloudFlare 单IPv4版",
       "status": "active",
-      "optimizedIPs": ["*.neko.cloudflaree.eu.org"],
+      "optimizedIPs": ["*.neko.cloudflaree.eu.org","*.neko.cloudd.eu.org"],
       "nodeStatus": "online",
       "responseTime": 70,
       "tags": ["全球加速", "高可用"]
