@@ -5,7 +5,7 @@
       "notice": "true",
       "time": "2026/07/29",
       "message": "测试",
-      "type": "warning",
+      "type": "success",
       "position": "top-right",
       "theme": "glassmorphism",
       "duration": 10000,
