@@ -89,7 +89,7 @@ export default defineNuxtConfig({
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-        { rel: 'canonical', href: 'https://www.byoip.top' },
+        { rel: 'canonical', href: 'https://neko.cloudd.eu.org' },
         { rel: 'preconnect', href: 'https://cdn.jsdmirror.com', crossorigin: 'anonymous' },
       ],
       script: [
