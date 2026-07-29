@@ -4,14 +4,14 @@
       <div class="flex flex-col items-center justify-between gap-4 md:flex-row">
         <!-- 版权信息 -->
         <span class="text-sm md:text-base">
-          Copyright &copy; {{ currentYear }} NB 优选服务
+          Copyright &copy; {{ currentYear }} 喵呜 优选服务
         </span>
         <nav>
           <span class="flex items-center gap-2 leading-tight">
             Powered By <a href="https://nuxt.com" class="text-blue-600"> <img :src="nuxtIcon" alt="Nuxt" class="w-auto h-4" /></a>
             
             &nbsp;
-            <a href="https://github.com/FrecklyComb1728/byoip-pages"><img :src="githubIcon" alt="GitHub" class="w-auto h-7 inline-block"/></a>
+            <a href="https://github.com/abc167661/byoip-pages"><img :src="githubIcon" alt="GitHub" class="w-auto h-7 inline-block"/></a>
           </span>
         </nav>
       </div>
