@@ -73,19 +73,19 @@ export default defineNuxtConfig({
   app: {
     pageTransition: { name: 'page', mode: 'default' },
     head: {
-      title: 'NB 优选服务 - CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务',
+      title: '喵呜 优选服务 - CloudFlare IP 优选、节点状态监测服务',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务' },
-        { name: 'keywords', content: 'CDN, IP优选, CloudFlare, Vercel, Netlify, 网络加速, 节点监测' },
+        { name: 'description', content: 'CloudFlare IP 优选、节点状态监测服务' },
+        { name: 'keywords', content: 'CDN, IP优选, CloudFlare, 网络加速, 节点监测' },
         { name: 'author', content: '© MIFENG' },
-        { property: 'og:title', content: '© NB 优选服务 - CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务' },
-        { property: 'og:description', content: 'CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务' },
+        { property: 'og:title', content: '© 喵呜 优选服务 - CloudFlare IP 优选、节点状态监测服务' },
+        { property: 'og:description', content: 'CloudFlare IP 优选、节点状态监测服务' },
         { property: 'og:type', content: 'website' },
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:title', content: '© NB 优选服务 - CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务' },
-        { name: 'twitter:description', content: 'CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务' }
+        { name: 'twitter:title', content: '© 喵呜 优选服务 - CloudFlare IP 优选、节点状态监测服务' },
+        { name: 'twitter:description', content: 'CloudFlare IP 优选、节点状态监测服务' }
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -102,8 +102,8 @@ export default defineNuxtConfig({
           innerHTML: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'WebApplication',
-            name: 'NB 优选服务 - CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务',
-            description: 'CloudFlare、EdgeOne、Vercel、Netlify 等全球主流云服务商的 CDN IP 优选、节点状态监测服务',
+            name: '喵呜 优选服务 - CloudFlare IP 优选、节点状态监测服务',
+            description: 'CloudFlare CDN IP 优选、节点状态监测服务',
             applicationCategory: 'NetworkingApplication',
             operatingSystem: 'Web Browser'
           })
