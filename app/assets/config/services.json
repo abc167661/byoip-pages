@@ -6,9 +6,10 @@
       "provider": "cloudflare",
       "description": "CloudFlare 单IPv4版",
       "status": "active",
-      "optimizedIPs": ["*cf.neko.cloudflaree.eu.org"],
+      "optimizedIPs": ["*.cloudflare.19931110.xyz","*.cloudflare.22336666.xyz","*.cloudflare.cnae.top","*.cloudflare.byoip.top"],
       "nodeStatus": "online",
       "responseTime": 70,
       "tags": ["全球加速", "高可用"]
     }
+  ]
 }
